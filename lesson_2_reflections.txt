@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+-this creates the .git folder and other systemt files to enable git tracking
+
