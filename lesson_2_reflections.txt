@@ -2,3 +2,6 @@ What happens when you initialize a repository? Why do you need to do it?
 
 -this creates the .git folder and other systemt files to enable git tracking
 
+How is the staging area different fromthe working directory and the repository? What value do you think it offers?
+
+-it allows you list files that you want to commit to a change before you actually commit them
